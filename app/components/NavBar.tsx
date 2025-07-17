@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function NavBar() {
   return (
-    <div className="w-full fixed top-0 p-5 flex justify-between">
+    <div className="w-full fixed top-0 p-5 flex justify-between h-[20px]">
         <Image
             aria-hidden
             src="/Frame 9.png"
@@ -25,15 +25,15 @@ export default function NavBar() {
                     aria-hidden
                     src="/Notification Bell.png"
                     alt="Globe icon"
-                    width={16}
-                    height={16}
+                    width={20}
+                    height={20}
                 />
                 <Image
                     aria-hidden
                     src="/User profile.png"
                     alt="Globe icon"
-                    width={16}
-                    height={16}
+                    width={20}
+                    height={20}
                 />
             </div>
           </div>
