@@ -7,7 +7,7 @@ import { useState } from "react";
 export default function SideBar() {
   const [dropdown, setDropdown] = useState(true);
   return (
-    <div className="w-1/4 top-19 fixed p-5 border border-r-2 h-full">
+    <div className="w-1/5 p-5 border border-r-2">
         <div className="flex gap-4 items-center justify-between border border-[#F4F5F6] rounded-lg p-2">
           <div className="flex gap-4">
             <Image
@@ -80,7 +80,7 @@ export default function SideBar() {
               <Info size={20} />
               <p>Support</p>
           </div>
-          <div className="flex items-center gap-3 w-1/5 h-10 bg-black rounded-sm text-white">
+          <div className="flex items-center gap-3 w-1/6 h-10 bg-black rounded-sm text-white">
               <LogOut size={20} />
               <p>Logout</p>
           </div>
