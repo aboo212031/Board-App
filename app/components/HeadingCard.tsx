@@ -51,7 +51,7 @@ export default function HeadingCard() {
             <Pencil size={16}/>
           </div>
         </div>
-        <hr className="w-screen"></hr>
+        <hr className="w-full"></hr>
         <div className="text-[#B1B5C3]">last updated on: 04 April, 2022</div>
     </div>
   );
