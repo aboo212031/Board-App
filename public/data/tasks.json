@@ -7,6 +7,6 @@
   { "id": "6", "title": "Task 6", "description": "This is the first task", "status": "to do" },
   { "id": "7", "title": "Task 7", "description": "This is the second task", "status": "to do" },
   { "id": "8", "title": "Task 8", "description": "This is the third task", "status": "to do" },
-  { "id": "9", "title": "Task 9", "description": "This is the fourth task", "status": "in progress" },
-  { "id": "10", "title": "Task 10", "description": "This is the fifth task", "status": "in progress" }
+  { "id": "9", "title": "Task 9", "description": "This is the fourth task", "status": "approved" },
+  { "id": "10", "title": "Task 10", "description": "This is the fifth task", "status": "reject" }
 ]

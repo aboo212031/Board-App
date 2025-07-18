@@ -64,7 +64,7 @@ export default function SideBar() {
               <MessageCircleMore size={20} />
               <p>Messages</p>
             </div>
-            <p className="bg-red-400 rounded-full h-6 w-6 text-center text-white">3</p>
+            <p className="bg-[#FF5C00] rounded-full h-6 w-6 text-center text-white">3</p>
           </div>
           <div className="flex items-center gap-3">
               <CalendarRange size={20} />
