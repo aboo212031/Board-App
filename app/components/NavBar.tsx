@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function NavBar() {
   return (
-    <div className="w-full fixed top-0 p-5 flex justify-between h-[20px]">
+    <div className="w-full fixed top-0 p-5 flex justify-between border border-b">
         <Image
             aria-hidden
             src="/Frame 9.png"
